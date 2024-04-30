@@ -1,0 +1,1 @@
+print("tersambung ke database")
