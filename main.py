@@ -3,3 +3,5 @@ def main():
     
     
 main()
+
+print("Baru saja diubah oleh Rizky")
